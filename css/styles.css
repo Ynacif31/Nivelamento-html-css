@@ -1,0 +1,17 @@
+h1, h2{
+    color: red;
+}
+h1:hover{
+    color: rgb(144, 10, 10);
+    cursor: pointer;
+}
+h3{
+    color: #1b680a;
+}
+.cor-laranja{
+    color: orange;
+}
+.title-card img{
+    width: 200px;
+    height: 200px;
+}
